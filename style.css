@@ -1,0 +1,73 @@
+/*GLOBAL*/
+body{
+    background-color: #040500;
+    }
+   #fundo {
+     
+     display: flex;
+      background-size: contain;
+     background-attachment: scroll;
+    background-repeat: no-repeat;
+    justify-content: center;
+    height: 800px;
+    
+    }
+    
+    
+    .burger {
+      text-shadow: 0 0 0.2em rgb(252, 115, 94), 0 0 0.2em #F27405 ;
+     font-size: 60px;
+    color: white;
+      position: absolute;
+      text-align: center;
+    }
+
+
+    .dias{
+      position: absolute;
+      color: white;
+      top: 160px;
+     text-align: center;
+     background-color: #F29F05;
+     width:650px;
+     border-radius: 5px;
+    }
+
+
+    .botao{
+      position: absolute;
+      color: white;
+      margin-top: 570px;
+      background-color: #f25c05a4;
+      border-radius: 10px;
+      line-height: 60px;
+      width: 200px;
+      text-align: center;
+    }
+
+.zap{
+  color: white;
+  position: absolute;
+  margin-top: 500px;
+  background-color: #f25c05a4;
+  border-radius: 10px;
+  line-height: 60px;
+  width: 200px;
+  text-align: center;
+
+}
+
+    #rodape{
+      position: relative;
+      margin-bottom: 0% ;
+      color: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin: auto;
+      flex-direction: column;
+      text-align: center;
+    }
+
+
+   
